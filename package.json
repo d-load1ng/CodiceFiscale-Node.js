@@ -1,0 +1,16 @@
+{
+  "name": "codicefiscale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node CF.js input.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codice-fiscale-js": "^2.3.9",
+    "fs-extra": "^10.0.0"
+  }
+}

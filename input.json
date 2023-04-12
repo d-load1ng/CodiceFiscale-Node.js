@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Attila Andrei",
+        "surname": "Aknai",
+        "gender": "M",
+        "year": 1991,
+        "month": 1,
+        "day": 11,
+        "birthplace": "Romania",
+        "birthplaceProvincia": "EE"
+    },
+    {
+        
+        "name": "Marco",
+        "surname": "Fò",
+        "gender": "F",
+        "year": 1987,
+        "month": 7,
+        "day": 23,
+        "birthplace": "Napoli",
+        "birthplaceProvincia": "NA"
+    }
+]
